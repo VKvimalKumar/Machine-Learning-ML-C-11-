@@ -1,0 +1,4 @@
+Got the API key from the site
+Converted that into JSON format
+Made a CSV file 
+Converted the JSON file to CSV file
